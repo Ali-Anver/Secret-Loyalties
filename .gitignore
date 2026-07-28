@@ -1,0 +1,17 @@
+# environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# OS / editor junk
+.DS_Store
+.Rhistory
+*.swp
+
+# generated exports
+*.html
+
+# never commit credentials
+.env
+*.key

@@ -1,0 +1,3 @@
+# Only the API experiments need `anthropic`; everything else is stdlib + matplotlib.
+anthropic>=0.60
+matplotlib>=3.7
