@@ -100,4 +100,8 @@ can flag. **It has not been built, and the dataset should not be published if it
 
 ## License
 
-Not yet chosen — add one before making the repository public.
+Code (`src/`, everything under it) is [MIT](LICENSE).
+
+Written content and figures (`paper/`, `figures/`, this README) are licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — share and adapt freely, with
+attribution to Ali Anver.
